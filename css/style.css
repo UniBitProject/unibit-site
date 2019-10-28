@@ -1598,12 +1598,12 @@ margin-bottom: 25px;
 
 
 #mailchimp {
-	background: #f8f8f8;
+	background: #000;
 	color: #3D6392;
 	padding: 20px 15px;
 }
 #mailchimp  h2 {
-    color: #505050;
+    color: #fff;
     font-family: "Open Sans";
     font-size: 32px;
     font-weight: 100;
@@ -1634,7 +1634,8 @@ margin-bottom: 25px;
 			cursor: pointer;
 			font-size: 15px;
 			width: 120px;
-			padding: 8px 0;
+        height: 40px;
+			padding: 8px 10;
 	border-radius: 0px;
 		}
 			#mailchimp input[type="submit"]:hover { color: #F2C94C }
@@ -1647,7 +1648,8 @@ margin-bottom: 25px;
     cursor: pointer;
     font-size: 15px;
     width: 120px;
-    padding: 8px 0;
+    height: 40px;
+    padding: 8px 10;
   border-radius: 0px;
 
   }
