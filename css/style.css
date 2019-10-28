@@ -231,7 +231,7 @@ h6 {
 
 #intro .intro-info .btn-get-started,
 #intro .intro-info .btn-services {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 13px;
   font-weight: 600;
   text-transform: uppercase;
@@ -243,6 +243,7 @@ h6 {
   color: #fff;
   background: #1bb1dc;
   color: #fff;
+    margin-right: 20px;
 }
 
 #intro .intro-info .btn-get-started:hover,
@@ -283,7 +284,7 @@ h6 {
   font-size: 14px;
   font-family: "Open Sans", sans-serif;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .main-nav a:hover,
@@ -509,8 +510,8 @@ h6 {
 
 #about .about-content h2 {
   color: #413e66;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
 }
 
 #about .about-content h3 {
@@ -678,7 +679,7 @@ margin-bottom: 25px;
 }
 
 #why-us .counters span {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: bold;
   font-size: 48px;
   display: block;
@@ -688,7 +689,7 @@ margin-bottom: 25px;
 #why-us .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   color: #8a87b6;
 }
@@ -705,7 +706,7 @@ margin-bottom: 25px;
 #call-to-action .cta-title {
   color: #fff;
   font-size: 28px;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 #call-to-action .cta-text {
@@ -713,8 +714,8 @@ margin-bottom: 25px;
 }
 
 #call-to-action .cta-btn {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
@@ -722,7 +723,7 @@ margin-bottom: 25px;
   border-radius: 3px;
   transition: 0.5s;
   margin: 10px;
-  border: 3px solid #fff;
+  border: 2px solid #fff;
   color: #fff;
 }
 
@@ -739,14 +740,14 @@ margin-bottom: 25px;
 }
 
 #features h4 {
-  font-weight: 600;
+  font-weight: 400;
   font-size: 24px;
 }
 
 
 #features .intro-info .btn-get-started,
 #features .intro-info .btn-services {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 13px;
   font-weight: 600;
   text-transform: uppercase;
@@ -1208,7 +1209,7 @@ margin-bottom: 25px;
   padding: 22px 0;
   display: block;
   position: relative;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 20px;
   line-height: 1;
   font-weight: 400;
@@ -1245,7 +1246,7 @@ margin-bottom: 25px;
 #footer {
   padding: 0 0 30px 0;
   font-size: 14px;
-  background: #fff;
+  background: #505050;
 }
 
 #footer .footer-top {
@@ -1262,7 +1263,7 @@ margin-bottom: 25px;
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #413e66;
   font-weight: 400;
   letter-spacing: 3px;
@@ -1273,7 +1274,7 @@ margin-bottom: 25px;
   font-size: 13px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #535074;
 }
 
@@ -1454,7 +1455,7 @@ margin-bottom: 25px;
 #footer .copyright {
   text-align: center;
   padding-top: 30px;
-  color: #535074;
+  color: #fff;
   font-size: 15px;
 }
 
@@ -1462,11 +1463,11 @@ margin-bottom: 25px;
   text-align: center;
   font-size: 14px;
   padding-top: 4px;
-  color: #8582a8;
+  color: #fff;
 }
 
 #footer .credits a {
-  color: #1bb1dc;
+  color: #fff;
 }
 
 #footer .credits a:hover {
@@ -1598,7 +1599,7 @@ margin-bottom: 25px;
 
 
 #mailchimp {
-	background: #000;
+	background: #505050;
 	color: #3D6392;
 	padding: 20px 15px;
 }
@@ -1643,7 +1644,7 @@ margin-bottom: 25px;
 
 
   #mc-embedded-subscribe-form input.button {
-    background: #115B87;
+    background: #000;
     color: #fff;
     cursor: pointer;
     font-size: 15px;
